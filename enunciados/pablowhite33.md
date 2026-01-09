@@ -1,4 +1,4 @@
-# Examen Parcial - PabloWhite33
+# Examen Parcial - PabloWhite33 PRUEBA
 
 **Usuario GitHub:** PabloWhite33
 **Fecha:** 4 de noviembre de 2025
